@@ -1,6 +1,6 @@
 #########################
 ## configuration items ##
-##HOSTNAME,IP_ADDRESS####
+## HOSTNAME,IP_ADDRESS ##
 #########################
 fakehost.fakehost.com,127.0.0.1
 evenfakerhost.fakehost.com,127.0.0.2
